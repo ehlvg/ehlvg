@@ -1,6 +1,11 @@
-👋 Hi, I’m @bulkabuka, a **junior-developer**. There are some repos of my learning practice and more...
+# :wave: Howdy!
 
-<!---
-bulkabuka/bulkabuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sara, and it's a space for all of `coding` and `writing` :nerd_face:
+
+## Who are you?
+
+I'm a `technical writer` and `ui/ux designer` at [Leftbrained](https://github.com/Leftbrained-Inc), besides that, I study at **SUAI** as a `software engineer`.
+
+## How to reach me
+
+I'm available at bulkabuka@outlook.com, feel free to ask for help :grinning:
