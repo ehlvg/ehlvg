@@ -7,7 +7,7 @@ I am actively developing myself in these areas, open to new opportunities and ex
 
 ## Who are you?
 
-I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://github.com/Leftbrained-Inc), besides that, I study at **SUAI** as a `software engineer`.
+I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://www.leftbrained.space), besides that, I study at **SUAI** as a `software engineer`.
 
 ## Projects
 
