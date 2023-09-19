@@ -1,6 +1,6 @@
 # :wave: Howdy!
 
-I'm Sara, and it's a space for all of `coding` and `writing` :nerd_face:
+I'm Sergey, and it's a space for all of `coding` and `writing` :nerd_face:
 
 ## Who are you?
 
@@ -8,4 +8,4 @@ I'm a `technical writer` and `ui/ux designer` at [Leftbrained](https://github.co
 
 ## How to reach me
 
-I'm available at bulkabuka@outlook.com, feel free to ask for help :grinning:
+I'm available at bulkabuka@gmail.com, feel free to ask for help :grinning:
