@@ -24,4 +24,4 @@
 
 Я доступен по адресу byhelvig@icloud.com, не стесняйтесь писать :grinning:
 
-А еще у меня есть профиль в Telegram: [@bulkabuka](bulkabuka.t.me), и Discord по никнейму **bulkabuka**.
+А еще у меня есть профиль в Telegram: [@bulkabuka](bulkabuka.t.me), и Discord по никнейму **byhelvig**.
