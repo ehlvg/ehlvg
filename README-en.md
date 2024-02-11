@@ -25,4 +25,4 @@ I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://www.leftbra
 
 I am available at byhelvig@icloud.com, feel free to ask for help :grinning:
 
-Also I have a Telegram account: [@bulkabuka](bulkabuka.t.me), and Discord by nickname: **bulkabuka**.
+Also I have a Telegram account: [@bulkabuka](bulkabuka.t.me), and Discord by nickname: **byhelvig**.
