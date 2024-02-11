@@ -14,6 +14,7 @@ I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://www.leftbra
 * Working on `Multimark` - it is an extensible desktop Markdown editor, [link](https://github.com/Leftbrained-Inc/multimark)
 * Also there's an `Emojity` project - small web app to create an avatar with colorful background, [link](https://github.com/bulkabuka/Emojity)
 * And one more team project - `Biomodel`, playground with various biological mathematical models (e.g. virus reproduction), [link](https://github.com/bulkabuka/Biomodel)
+* `Uptask` task manager, Material You helper for your everyday tasks, [link](https://github.com/bulkabuka/uptask)
 * and a lot more in my profile!
 
 ## Achievements
@@ -22,6 +23,6 @@ I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://www.leftbra
 
 ## How to reach me
 
-I am available at bulkabuka@gmail.com, feel free to ask for help :grinning:
+I am available at byhelvig@icloud.com, feel free to ask for help :grinning:
 
 Also I have a Telegram account: [@bulkabuka](bulkabuka.t.me), and Discord by nickname: **bulkabuka**.
