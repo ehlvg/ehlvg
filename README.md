@@ -13,6 +13,7 @@
 * Работаю над `Multimark` - это расширяемый настольный редактор Markdown, [ссылка](https://github.com/Leftbrained-Inc/multimark)
 * Также закончена работа над `Emojity` - небольшое веб-приложение для создания эмодзи-аватаров с цветным фоном, [ссылка](https://github.com/bulkabuka/Emojity)
 * Ещё один командный проект - `Biomodel`, игровая площадка с биологическими математическими моделями (например, размножение вируса), [ссылка](https://github.com/bulkabuka/Biomodel)
+* Планировщик задач `Uptask`, Material You помощник с организацией своего времени и дел, [ссылка](https://github.com/bulkabuka/uptask)
 * и еще много другого в моем профиле!
 
 ## Достижения
@@ -21,6 +22,6 @@
 
 ## Как связаться со мной
 
-Я доступен по адресу bulkabuka@gmail.com, не стесняйтесь писать :grinning:
+Я доступен по адресу byhelvig@icloud.com, не стесняйтесь писать :grinning:
 
 А еще у меня есть профиль в Telegram: [@bulkabuka](bulkabuka.t.me), и Discord по никнейму **bulkabuka**.
