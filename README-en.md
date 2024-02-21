@@ -19,7 +19,7 @@ I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://www.leftbra
 | Bootstrap and other CSS frameworks | ★★★★★ |
 | SQL and Databases (PostgreSQL, MySQL, SQLite), <br/> functions, procedures and triggers | ★★★★★ |
 | Android (Jetpack Compose, MVVM, Retrofit, Exposed) | ★★★★★ |
-| Technical writing, documentation (Markdown, Asciidoc, Typst, ) | ★★★★★ |
+| Technical writing, documentation (Markdown, Asciidoc, Typst) | ★★★★★ |
 | C# (UWP, WPF) | ★★★★ |
 | Python (Bottle, CLI) | ★★★★ |
 | Kotlin (Android, Multiplatform) | ★★★★ |
