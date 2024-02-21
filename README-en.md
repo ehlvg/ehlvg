@@ -9,6 +9,24 @@ I am actively developing myself in these areas, open to new opportunities and ex
 
 I am a `technical writer`, `ui/ux designer` at [Leftbrained](https://www.leftbrained.space), besides that, I study at **SUAI** as a `software engineer`.
 
+## Skills
+
+| Subject | Level (1 to 5) |
+| ---: | :--- |
+| UI/UX Design (Figma, Sketch, Illustrator) | ★★★★★ |
+| VCS, GitHub/GitLab | ★★★★★ |
+| Web (HTML/CSS/JS) | ★★★★★ |
+| Bootstrap and other CSS frameworks | ★★★★★ |
+| SQL and Databases (PostgreSQL, MySQL, SQLite), <br/> functions, procedures and triggers | ★★★★★ |
+| Android (Jetpack Compose, MVVM, Retrofit, Exposed) | ★★★★★ |
+| Technical writing, documentation (Markdown, Asciidoc, Typst, ) | ★★★★★ |
+| C# (UWP, WPF) | ★★★★ |
+| Python (Bottle, CLI) | ★★★★ |
+| Kotlin (Android, Multiplatform) | ★★★★ |
+| Java (Android) | ★★★ |
+| Swift, SwiftUI | ★★★ |
+| React, Next.js, Node.js, MUI | ★★★ |
+
 ## Projects
 
 * Working on `Multimark` - it is an extensible desktop Markdown editor, [link](https://github.com/Leftbrained-Inc/multimark)
