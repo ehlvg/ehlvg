@@ -12,6 +12,7 @@
 
 | Область | Уровень (от 1 до 5) |
 | ---: | :--- |
+| UI/UX Дизайн (Figma, Sketch, Illustrator) | ★★★★★ |
 | VCS, GitHub/GitLab | ★★★★★ |
 | Web (HTML/CSS/JS) | ★★★★★ |
 | Bootstrap и другие CSS-фреймворки | ★★★★★ |
