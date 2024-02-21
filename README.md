@@ -17,8 +17,8 @@
 | Web (HTML/CSS/JS) | ★★★★★ |
 | Bootstrap и другие CSS-фреймворки | ★★★★★ |
 | SQL и БД (PostgreSQL, MySQL, SQLite), <br/> функции и процедуры, триггеры | ★★★★★ |
-| Android (Jetpack Compose, MVVM, Retrofit, Exposed) | ★★★★★ |
-| Техническое писательство и документация (Markdown, Asciidoc, Typst) | ★★★★★ |
+| Android (Jetpack Compose, MVVM, <br/> Retrofit, Exposed) | ★★★★★ |
+| Техническое писательство <br/> и документация (Markdown, Asciidoc, Typst) | ★★★★★ |
 | C# (UWP, WPF) | ★★★★ |
 | Python (Bottle, CLI) | ★★★★ |
 | Kotlin (Android, Multiplatform) | ★★★★ |
