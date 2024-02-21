@@ -8,6 +8,23 @@
 
 Я `технический писатель`, `ui/ux дизайнер` в [Leftbrained](https://www.leftbrained.space/), помимо этого, я учусь в **ГУАПе** на `инженера-разработчика`.
 
+## Навыки
+
+| Область | Уровень (от 1 до 5) |
+| ---: | :--- |
+| VCS, GitHub/GitLab | ★★★★★ |
+| Web (HTML/CSS/JS) | ★★★★★ |
+| Bootstrap и другие CSS-фреймворки | ★★★★★ |
+| SQL и БД (PostgreSQL, MySQL, SQLite), <br/> функции и процедуры, триггеры | ★★★★★ |
+| Android (Jetpack Compose, MVVM, Retrofit, Exposed) | ★★★★★ |
+| Техническое писательство и документация (Markdown, Asciidoc, Typst, ) | ★★★★★ |
+| C# (UWP, WPF) | ★★★★ |
+| Python (Bottle, CLI) | ★★★★ |
+| Kotlin (Android, Multiplatform) | ★★★★ |
+| Java (Android) | ★★★ |
+| Swift, SwiftUI | ★★★ |
+| React, Next.js, Node.js, MUI | ★★★ |
+
 ## Проекты
 
 * Работаю над `Multimark` - это расширяемый настольный редактор Markdown, [ссылка](https://github.com/Leftbrained-Inc/multimark)
