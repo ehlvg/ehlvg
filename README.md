@@ -1,7 +1,5 @@
 # 🎱 h0wdy.js
 
-[helvig.cc](https://helvig.cc/)
-
 ```js
 const profile = {
   name: "Erich Helvig",
