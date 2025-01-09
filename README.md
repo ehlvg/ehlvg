@@ -1,9 +1,6 @@
-<h1>
-    <img src="https://github.com/user-attachments/assets/ae418323-a604-4114-99b4-57e37020a594" alt="Orange asterisk" width="24">
-    h0wdy.js
-</h1>
+# 🎱 h0wdy.js
 
-🌐 [helvig.cc](https://helvig.cc/)
+[helvig.cc](https://helvig.cc/)
 
 ```js
 const profile = {
